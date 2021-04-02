@@ -4,7 +4,7 @@ import './Greating.css'
 const morning = 'Good Morning';
 const afternon = "Good AfterNon";
 const evening = "Good Evening";
-const night  = "Good Night"
+const night  = "Good Night "
 let greet = '';
 
 const time = new Date()
