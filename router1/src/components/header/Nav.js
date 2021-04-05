@@ -11,9 +11,7 @@ export class Nav extends Component {
                     <li><Link to='/contact'>Contact</Link></li>
                     <li><Link to='/about'>About</Link></li>
                     <li><Link to='/login'>Login / Register</Link></li>
-                    <li className='close'>X</li>
                 </ul>
-                <div className='menu'>Menu</div>
             </div>
         )
     }
